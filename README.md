@@ -32,9 +32,9 @@ _<sup>&#8593; Filipino Version of **Hi!**</sup>_
 
 <!--- GitHub Statistics ---> 
 <div>
-   <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ketpadilla&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
-   <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ketpadilla&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58A6FF" />
-   <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketpadilla&layout=compact&theme=onedark&hide_border=true&hide=java,javascript,html,css,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=ketpadilla&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
+   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ketpadilla&hide_border=true&show_icons=true&currStreakNum=58A6FF&sideNums=58A6FF&border=1F6FEB&currStreakLabel=C3D1D9&background=0D1117&sideLabels=C3D1D9&dates=58A6FF" />
+   <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketpadilla&layout=compact&theme=onedark&hide_border=true&hide=java,javascript,html,css,scss&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" />
 </div>
 
 --- 
@@ -69,9 +69,6 @@ _<sup>&#8593; Filipino Version of **Hi!**</sup>_
 	<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 	<!--- SqLite ---> 
 	<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
-	<!--- Bootstrap ---> 
-	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-	<!--- Python ---> 
 </div>
 
 
