@@ -57,7 +57,6 @@ _<sup>&#8593; Filipino Version of **Hi!**</sup>_
 	<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 	<!--- Bootstrap ---> 
 	<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-	<!--- Python ---> 
 </div>
 
 <!--- Frameworks and Databases ---> 
