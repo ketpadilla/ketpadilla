@@ -40,6 +40,8 @@ _<sup>&#8593; Filipino Version of **Hi!**</sup>_
 <!--- Programming Languages ---> 
 #### _Programming Languages_ <img src="https://img.icons8.com/ios/250/FFFFFF/source-code.png" width="20" align="left">
 <div>
+	<!--- C ---> 
+ 	<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
 	<!--- Python ---> 
 	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 	<!--- Javascript ---> 
