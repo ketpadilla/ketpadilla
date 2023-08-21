@@ -9,8 +9,7 @@ _<sup>&#8593; Filipino Version of **Hi!**</sup>_
 <!--- Basic Description ---> 
 <p>
    I started my programming journey way back in 2021——and have been developing myself since then.<br>
-   I am currently a computer engineering student at <a href="https://www.mapua.edu.ph/#">Mapúa University</a>; and in my time have dedicated myself to learning various programming skills and languages that I have today. As a young and target
-	driven individual, I am prepared and sure to enjoy taking on challenges proactively, training in current and emerging technologies, meeting new people, and learning new perspectives and experiences. 
+   I am currently a computer engineering student at <a href="https://www.mapua.edu.ph/#">Mapúa University</a>; and in my time have dedicated myself to learning various programming skills and languages that I have today. As a young and target driven individual, I am prepared and sure to enjoy taking on challenges proactively, training in current and emerging technologies, meeting new people, and learning new perspectives and experiences. 
 </p>  
 
 <!--- Social links ---> 
