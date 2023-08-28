@@ -15,7 +15,7 @@ _<sup>&#8593; Filipino Version of **Hi!**</sup>_
 <!--- Social links ---> 
 <div>
    <a href="https://github.com/ketpadilla">
-      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub"></a>
+      <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub"> </a>
    <a href="https://www.linkedin.com/in/ketpadilla">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
    <a href="mailto:ketpadilla@mymail.mapua.edu.ph">
