@@ -79,6 +79,8 @@ _<sup>&#8593; Filipino Version of **Hi!**</sup>_
 	<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 	<!--- Jupyter Notebook ---> 
   	<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
+	<!--- Pandas ---> 
+	<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
 	<!--- MS Office ---> 
 	<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
 	<!--- Opera Gx ---> 
