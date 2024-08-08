@@ -1,5 +1,5 @@
 # KUMUSTA KA? <img src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="50">
-_<sup>&#8593; **HI** in Filipino!</sup>_
+_<sup>**HI** in Filipino!</sup>_
 
 <!--- Name and Title ---> 
 ## **I AM <code>KRISTIAN PADILLA</code>.**
