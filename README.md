@@ -4,7 +4,7 @@ _<sup>**HI** in Filipino!</sup>_
 <!--- Name and Title ---> 
 ## **I AM <code>KRISTIAN PADILLA</code>.**
 > [!IMPORTANT]
->  _2nd Year College Student and Aspiring Computer Engineer | Mapúa University_
+>  _A 2nd Year College Student and Aspiring Computer Engineer | Mapúa University_
 
 <!--- Introduction ---> 
 <p align="left">	
