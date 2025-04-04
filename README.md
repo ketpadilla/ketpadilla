@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  # _Kamusta!_ <br /> I'm <code style="color : gold">Kristian Padilla</code>
+  # _Kamusta!_ <br> I'm <font style="color : gold">Kristian Padilla</font>
 
   <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"/>
