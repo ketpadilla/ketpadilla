@@ -1,15 +1,12 @@
 ![Header](https://github.com/ketpadilla/ketpadilla/blob/166e580b5d6171c27d2f4a87b8f532ce6bf4b303/Padilla_GitHub_BG.png)
 
 <div align="center">
-
-  # _Kamusta!_ <br> I'm <font style="color : gold">Kristian Padilla</font>
-
+	
+  # _Kamusta!_ <br> I'm <code>Kristian Padilla</code>
   <img src="https://skillicons.dev/icons?i=apple" height="40" alt="apple"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode"/>
-
-
+  
 ---
-<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ketpadilla/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ketpadilla@mymail.mapua.edu.ph)
@@ -21,7 +18,6 @@
 </div>
 
 ---
-<br>
 
 ```c++ 
 // Current status: APRIL 2025
@@ -32,12 +28,7 @@
   };
 ```
 
-Ever since I started programming in **2021**, I have learned a ton and experienced a lot <span style="color : gray">_(given the workload I usually get)_</span>. I'm doing my best to keep up with <span style="color : lightskyblue">_studies_</span> while making the most out of my time with <span style="color : gold">**family**</span>, <span style="color : orangered">**loved ones**</span>, and, of course, <span style="color : greenyellow">**programming**</span>.
-
-<!-- I first experienced the programming world in 2021. Since then, I have been developing myself as a programmer while pursuing a bachelor's at _[Mapúa University](https://www.mapua.edu.ph/#)_. <br>
-	
-As a college student, I have kept myself open to the technologies I encounter. Balancing life and academics, I am slowly learning more about programming and exploring areas that may become my specialization. With guidance and drive, I seek new experiences, challenges, and knowledge—understanding the current trends and meeting new people,  perspectives, and codes.  -->
-
+Ever since I started programming in **2021**, I have learned a ton and experienced a lot _(given the workload I usually get)_. I'm doing my best to keep up with _studies_ while making the most out of my time with _**family**_, _**loved ones**_, and, of course, _**programming**_.
 
 ## Tech Stack
 _<sup style="color : gray">I'm currently experienced with:</sup>_ <br>
